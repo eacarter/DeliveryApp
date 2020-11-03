@@ -1,0 +1,6 @@
+/Users/ericanthonycarter/Projects/DeliveryApp/DeliveryApp/bin/Debug/DeliveryApp.dll
+/Users/ericanthonycarter/Projects/DeliveryApp/DeliveryApp/bin/Debug/DeliveryApp.pdb
+/Users/ericanthonycarter/Projects/DeliveryApp/DeliveryApp/obj/Debug/DeliveryApp.csprojAssemblyReference.cache
+/Users/ericanthonycarter/Projects/DeliveryApp/DeliveryApp/obj/Debug/DeliveryApp.csproj.CoreCompileInputs.cache
+/Users/ericanthonycarter/Projects/DeliveryApp/DeliveryApp/obj/Debug/DeliveryApp.dll
+/Users/ericanthonycarter/Projects/DeliveryApp/DeliveryApp/obj/Debug/DeliveryApp.pdb

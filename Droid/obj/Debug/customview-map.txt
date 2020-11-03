@@ -1,0 +1,9 @@
+Button;obj/Debug/res/layout/main.xml
+Button;obj/Debug/res/layout/register.xml
+EditText;obj/Debug/res/layout/main.xml
+EditText;obj/Debug/res/layout/register.xml
+LinearLayout;obj/Debug/res/layout/main.xml
+LinearLayout;obj/Debug/res/layout/register.xml
+resources;obj/Debug/res/values/strings.xml
+string;obj/Debug/res/values/strings.xml
+TextView;obj/Debug/res/layout/main.xml

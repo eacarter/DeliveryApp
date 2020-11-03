@@ -1,0 +1,6 @@
+DeliveryApp.Droid.MainActivity, DeliveryApp.Droid;crc64e25c411d5b90387f.MainActivity
+DeliveryApp.Droid.MainActivity;crc64e25c411d5b90387f.MainActivity
+deliveryapp.droid.MainActivity;crc64e25c411d5b90387f.MainActivity
+DeliveryApp.Droid.RegisterActivity, DeliveryApp.Droid;crc64e25c411d5b90387f.RegisterActivity
+DeliveryApp.Droid.RegisterActivity;crc64e25c411d5b90387f.RegisterActivity
+deliveryapp.droid.RegisterActivity;crc64e25c411d5b90387f.RegisterActivity
